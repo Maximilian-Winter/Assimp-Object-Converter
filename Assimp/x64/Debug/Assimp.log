@@ -1,0 +1,69 @@
+﻿Der Buildvorgang wurde am 28.02.2016 00:53:18 gestartet.
+     1>Projekt "D:\Documents\VS 2015\Assimp Object Converter\Assimp\Assimp.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\Documents\VS 2015\BulletPhysicsEngine\src" /I"D:\Documents\VS 2015\AssimpBinaries\include" /ZI /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\documents\vs 2015\assimp object converter\assimp\meshloaderclass.h(28): warning C4305: "=": Verkürzung von "double" in "float"
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(589): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(593): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(598): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(602): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(607): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(611): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(616): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(620): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(964): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1007): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1039): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1065): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1082): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1102): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1118): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1129): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1158): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1188): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1200): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1220): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1232): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1272): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1273): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1289): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1292): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1293): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1314): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1327): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1339): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1348): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1357): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1391): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1394): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1395): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1407): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1429): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1451): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1460): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1497): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1505): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1508): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\configdataclass.h(1509): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(166): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(177): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(179): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(209): warning C4244: "Argument": Konvertierung von "float" in "long", möglicher Datenverlust
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(266): warning C4244: "=": Konvertierung von "HACD::Real" in "float", möglicher Datenverlust
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(267): warning C4244: "=": Konvertierung von "HACD::Real" in "float", möglicher Datenverlust
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(268): warning C4244: "=": Konvertierung von "HACD::Real" in "float", möglicher Datenverlust
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(281): warning C4267: "Argument": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(306): warning C4305: "Argument": Verkürzung von "double" in "const btScalar"
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(372): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+     1>d:\documents\vs 2015\assimp object converter\assimp\main.cpp(504): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\VS 2015\Assimp Object Converter\x64\Debug\Assimp.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Documents\VS 2015\BulletPhysicsEngine x64\lib\Debug" /LIBPATH:"D:\Documents\VS 2015\AssimpBinaries x64\code\Debug" "assimp-vc140-mtd.lib" BulletCollision_Debug.lib BulletDynamics_Debug.lib Bullet3Common_Debug.lib Bullet3Geometry_Debug.lib ConvexDecomposition_Debug.lib HACD_Debug.lib LinearMath_Debug.lib BulletFileLoader_Debug.lib Bullet2FileLoader_Debug.lib BulletWorldImporter_Debug.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Documents\VS 2015\Assimp Object Converter\x64\Debug\Assimp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\VS 2015\Assimp Object Converter\x64\Debug\Assimp.lib" /MACHINE:X64 x64\Debug\ConfigDataClass.obj
+         x64\Debug\main.obj
+         x64\Debug\MeshLoaderClass.obj
+         Assimp.vcxproj -> D:\Documents\VS 2015\Assimp Object Converter\x64\Debug\Assimp.exe
+     1>Die Erstellung von Projekt "D:\Documents\VS 2015\Assimp Object Converter\Assimp\Assimp.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:02.89
